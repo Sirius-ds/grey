@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jp\\ConsoleAhh\\ConsoleAhh\\ConsoleAhh.csproj": {}
+    "D:\\fy\\grey\\ConsoleAhh\\ConsoleAhh\\ConsoleAhh.csproj": {}
   },
   "projects": {
-    "D:\\Jp\\ConsoleAhh\\ConsoleAhh\\ConsoleAhh.csproj": {
+    "D:\\fy\\grey\\ConsoleAhh\\ConsoleAhh\\ConsoleAhh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jp\\ConsoleAhh\\ConsoleAhh\\ConsoleAhh.csproj",
+        "projectUniqueName": "D:\\fy\\grey\\ConsoleAhh\\ConsoleAhh\\ConsoleAhh.csproj",
         "projectName": "ConsoleAhh",
-        "projectPath": "D:\\Jp\\ConsoleAhh\\ConsoleAhh\\ConsoleAhh.csproj",
+        "projectPath": "D:\\fy\\grey\\ConsoleAhh\\ConsoleAhh\\ConsoleAhh.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Jp\\ConsoleAhh\\ConsoleAhh\\obj\\",
+        "outputPath": "D:\\fy\\grey\\ConsoleAhh\\ConsoleAhh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

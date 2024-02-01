@@ -1,0 +1,5 @@
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Debug\net8.0\ConsoleAhh.GeneratedMSBuildEditorConfig.editorconfig
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Debug\net8.0\ConsoleAhh.AssemblyInfoInputs.cache
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Debug\net8.0\ConsoleAhh.AssemblyInfo.cs
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Debug\net8.0\ConsoleAhh.csproj.CoreCompileInputs.cache
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Debug\net8.0\ConsoleAhh.sourcelink.json

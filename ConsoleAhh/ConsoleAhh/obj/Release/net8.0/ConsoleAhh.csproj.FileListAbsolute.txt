@@ -1,0 +1,15 @@
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ConsoleAhh.GeneratedMSBuildEditorConfig.editorconfig
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ConsoleAhh.AssemblyInfoInputs.cache
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ConsoleAhh.AssemblyInfo.cs
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ConsoleAhh.csproj.CoreCompileInputs.cache
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ConsoleAhh.sourcelink.json
+D:\fy\grey\ConsoleAhh\ConsoleAhh\bin\Release\net8.0\ConsoleAhh.exe
+D:\fy\grey\ConsoleAhh\ConsoleAhh\bin\Release\net8.0\ConsoleAhh.deps.json
+D:\fy\grey\ConsoleAhh\ConsoleAhh\bin\Release\net8.0\ConsoleAhh.runtimeconfig.json
+D:\fy\grey\ConsoleAhh\ConsoleAhh\bin\Release\net8.0\ConsoleAhh.dll
+D:\fy\grey\ConsoleAhh\ConsoleAhh\bin\Release\net8.0\ConsoleAhh.pdb
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ConsoleAhh.dll
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\refint\ConsoleAhh.dll
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ConsoleAhh.pdb
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ConsoleAhh.genruntimeconfig.cache
+D:\fy\grey\ConsoleAhh\ConsoleAhh\obj\Release\net8.0\ref\ConsoleAhh.dll
