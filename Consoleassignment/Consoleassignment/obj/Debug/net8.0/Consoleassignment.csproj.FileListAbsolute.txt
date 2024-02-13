@@ -1,0 +1,15 @@
+D:\fy\grey\Consoleassignment\Consoleassignment\bin\Debug\net8.0\Consoleassignment.exe
+D:\fy\grey\Consoleassignment\Consoleassignment\bin\Debug\net8.0\Consoleassignment.deps.json
+D:\fy\grey\Consoleassignment\Consoleassignment\bin\Debug\net8.0\Consoleassignment.runtimeconfig.json
+D:\fy\grey\Consoleassignment\Consoleassignment\bin\Debug\net8.0\Consoleassignment.dll
+D:\fy\grey\Consoleassignment\Consoleassignment\bin\Debug\net8.0\Consoleassignment.pdb
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\Consoleassignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\Consoleassignment.AssemblyInfoInputs.cache
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\Consoleassignment.AssemblyInfo.cs
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\Consoleassignment.csproj.CoreCompileInputs.cache
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\Consoleassignment.sourcelink.json
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\Consoleassignment.dll
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\refint\Consoleassignment.dll
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\Consoleassignment.pdb
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\Consoleassignment.genruntimeconfig.cache
+D:\fy\grey\Consoleassignment\Consoleassignment\obj\Debug\net8.0\ref\Consoleassignment.dll
